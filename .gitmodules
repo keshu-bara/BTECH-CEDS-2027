@@ -1,3 +1,6 @@
 [submodule "Java_oops"]
 	path = Java_oops
 	url = https://github.com/keshu-bara/Java_oops.git
+[submodule "Statisticslab"]
+	path = Statisticslab
+	url = https://github.com/keshu-bara/R_programming.git
